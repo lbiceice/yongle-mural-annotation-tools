@@ -13,6 +13,8 @@ Two self-contained single-file HTML tools (no build step; open in a modern brows
 
 Both files are standalone. The IAA Toolkit runs fully client-side — just open it in a browser. The Workflow tool additionally expects a local helper server and your own model-API credentials (see **Setup & Security** below).
 
+This repository is intentionally not enabled as a hosted web app. Use the tools locally so API keys, local helper endpoints, and dataset paths remain under your control.
+
 ## Setup & Security (read before use)
 
 This is a *bring-your-own-key, run-it-locally* research console. Please note:

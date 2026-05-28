@@ -1,0 +1,31 @@
+{
+  "title": "yongle-mural-annotation-tools: browser-based IAA and annotation-workflow tools for Yongle Palace mural patches",
+  "upload_type": "software",
+  "publication_date": "2026-05-28",
+  "version": "1.0.0",
+  "description": "Browser-based research tools for Yongle Palace Taoist mural patch annotation, including a standalone inter-annotator agreement toolkit and a local annotation workflow console. This release contains no API keys and is intended for local use rather than hosted deployment.",
+  "creators": [
+    {
+      "name": "Liang, Bingbing",
+      "orcid": "0009-0007-5344-0594"
+    }
+  ],
+  "keywords": [
+    "inter-annotator agreement",
+    "Krippendorff alpha",
+    "Cohen kappa",
+    "vision-language models",
+    "cultural heritage",
+    "mural annotation",
+    "Yongle Palace"
+  ],
+  "license": "mit-license",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "10.5281/zenodo.19718760",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Public repository: https://github.com/lbiceice/yongle-mural-annotation-tools. The workflow console is designed for local use with user-supplied credentials and local helper endpoints."
+}
