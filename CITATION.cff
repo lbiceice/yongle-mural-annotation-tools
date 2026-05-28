@@ -10,9 +10,9 @@ authors:
 version: "1.0.0"
 date-released: "2026-05-28"
 license: MIT
-# TODO before/after public release — do not fabricate:
-# repository-code: "https://github.com/<owner>/yongle-mural-annotation-tools"   # [PENDING_GITHUB_URL]
-# doi: "10.5281/zenodo.XXXXXXXX"                                                  # [PENDING_SOFTWARE_DOI]
+# Add only after public release; do not fabricate:
+# repository-code: "<public GitHub repository URL>"
+# doi: "<Zenodo software DOI>"
 keywords:
   - inter-annotator agreement
   - Krippendorff's alpha
