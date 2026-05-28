@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+
+# Editor / OS
+*.swp
+*~
+.idea/
+.vscode/
+
+# Node (if a headless core is added later)
+node_modules/
+npm-debug.log*
+
+# Local secrets / scratch (never commit)
+.env
+*.key
+*.pem
+scratch/

@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these tools, please cite as below."
+title: "yongle-mural-annotation-tools: browser-based IAA and annotation-workflow tools for Yongle Palace mural patches"
+type: software
+authors:
+  - family-names: Liang
+    given-names: Bingbing
+    orcid: "https://orcid.org/0009-0007-5344-0594"
+    email: lbice@gzgs.edu.cn
+version: "1.0.0"
+date-released: "2026-05-28"
+license: MIT
+# TODO before/after public release — do not fabricate:
+# repository-code: "https://github.com/<owner>/yongle-mural-annotation-tools"   # [PENDING_GITHUB_URL]
+# doi: "10.5281/zenodo.XXXXXXXX"                                                  # [PENDING_SOFTWARE_DOI]
+keywords:
+  - inter-annotator agreement
+  - Krippendorff's alpha
+  - Cohen's kappa
+  - vision-language models
+  - cultural heritage
+  - mural annotation
+  - Yongle Palace
+related-identifiers:
+  - description: "Companion dataset (Zenodo)"
+    identifier: "10.5281/zenodo.19718760"
+    relation: "isSupplementTo"
