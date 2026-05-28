@@ -11,8 +11,7 @@ version: "1.0.0"
 date-released: "2026-05-28"
 license: MIT
 repository-code: "https://github.com/lbiceice/yongle-mural-annotation-tools"
-# Add only after Zenodo archives the release; do not fabricate:
-# doi: "<Zenodo software DOI>"
+doi: "10.5281/zenodo.20429891"
 keywords:
   - inter-annotator agreement
   - Krippendorff's alpha

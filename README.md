@@ -40,4 +40,4 @@ This is the **first public release** of the tools repository. The bundled tools 
 
 ## Citation
 
-See [`CITATION.cff`](CITATION.cff). A tagged release will be archived to Zenodo to mint a software DOI; update the citation file with the real repository URL and DOI after publishing.
+See [`CITATION.cff`](CITATION.cff). Release `v1.0.0` is archived on Zenodo as software DOI [`10.5281/zenodo.20429891`](https://doi.org/10.5281/zenodo.20429891).

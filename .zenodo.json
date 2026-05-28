@@ -27,5 +27,5 @@
       "resource_type": "dataset"
     }
   ],
-  "notes": "Public repository: https://github.com/lbiceice/yongle-mural-annotation-tools. The workflow console is designed for local use with user-supplied credentials and local helper endpoints."
+  "notes": "Public repository: https://github.com/lbiceice/yongle-mural-annotation-tools. Release v1.0.0 software DOI: 10.5281/zenodo.20429891. The workflow console is designed for local use with user-supplied credentials and local helper endpoints."
 }
