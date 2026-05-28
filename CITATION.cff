@@ -10,8 +10,8 @@ authors:
 version: "1.0.0"
 date-released: "2026-05-28"
 license: MIT
-# Add only after public release; do not fabricate:
-# repository-code: "<public GitHub repository URL>"
+repository-code: "https://github.com/lbiceice/yongle-mural-annotation-tools"
+# Add only after Zenodo archives the release; do not fabricate:
 # doi: "<Zenodo software DOI>"
 keywords:
   - inter-annotator agreement
